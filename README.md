@@ -1,5 +1,5 @@
 # DataWaster
-Fork from [shivam1608's Data Waster](https://github.com/shivam1608/DataWaster) but using Cloudflare Workers
+Fork from [shivam1608's DataWaster](https://github.com/shivam1608/DataWaster) but using Cloudflare Workers
 
 # Usage 
 - Go to this Website https://datawaster.iyariv.workers.dev/
