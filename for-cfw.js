@@ -13,7 +13,7 @@ async function handleRequest(request) {
       <script src="https://ajax.googleapis.com/ajax/libs/jquery/3.6.0/jquery.min.js"></script>
       <link href="https://cdn.jsdelivr.net/npm/bootstrap@5.0.2/dist/css/bootstrap.min.css" rel="stylesheet" integrity="sha384-EVSTQN3/azprG1Anm3QDgpJLIm9Nao0Yz1ztcQTwFspd3yD65VohhpuuCOmLASjC" crossorigin="anonymous">
       <link href="https://fonts.googleapis.com/icon?family=Material+Icons" rel="stylesheet">
-      <link rel="icon" href="/favicon.ico" type="image/x-icon">
+      <link rel="icon" href="https://cdn.jsdelivr.net/gh/iyarivky/DataWaster-Cloudflare-Workers/favicon.png" type="image/x-icon">
       <title>Data Waster</title>
       <style>
         .bg-gray {
@@ -157,7 +157,7 @@ async function handleRequest(request) {
             </div>
           </div>
         </div>
-        <div class="alert alert-dark" role="alert"> View Repository on <a href="https://github.com/shivam1608/DataWaster" target="_blank" rel="noopener noreferrer" class="alert-link">Github</a>. </div>
+        <div class="alert alert-dark" role="alert"> View Repository on <a href="https://github.com/iyarivky/DataWaster-Cloudflare-Workers" target="_blank" rel="noopener noreferrer" class="alert-link">Github</a>. </div>
       </div>
       <script>
         //console.log("I am Loaded!");
@@ -267,7 +267,7 @@ async function handleRequest(request) {
       <meta charset="UTF-8" />
       <meta name="viewport" content="width=device-width, initial-scale=1.0" />
       <link href="https://raw.githubusercontent.com/iyarivky/sing-ribet-api/main/media/sing-ribet-convert.ico" rel="icon" type="image/x-icon" />
-      <title>404 Page Not Found</title>
+      <title>404 Freedom Not Found</title>
       <link href="https://fonts.cdnfonts.com/css/glitch-goblin" rel="stylesheet">
       <style>
         body {
@@ -296,7 +296,7 @@ async function handleRequest(request) {
     </head>
     <body>
       <h1>404</h1>
-      <p>Why are you here ?</p>
+      <p>Freedom Not Found</p>
     </body>
   </html>
   `
